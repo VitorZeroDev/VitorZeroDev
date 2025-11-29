@@ -5,14 +5,14 @@
 -   🔭 Junior Developer in training, focused on continuous improvement. Currently, I'm looking to apply **Data Science** and **Machine Learning** with Python, while also exploring low-level system development with C++.
 -   🌱 I seek to apply technology to solve complex problems and am always looking for new challenges.
 -   💡 My recent projects include a Titanic survival predictive model and a resistor calculator in C++.
+-   📚 I'm always learning new technologies and programming languages to expand my skillset.
 
 ### 🛠️ Technologies
 
-| Category | Technologies |
-| :--- | :--- |
-| **Main Languages** | Python, C++ |
-| **Data Science/ML** | Pandas, Scikit-learn |
-| **Tools** | Git, VS Code, Docker |
+-   **Main Languages:** Python, C++
+-   **Data Science/ML:** Pandas, Scikit-learn
+-   **Tools:** Git, VS Code, Docker
+-   **Learning:** JavaScript, HTML/CSS (to complement my development skills)
 
 ### 📊 GitHub Stats
 
@@ -23,4 +23,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/vitor-silva-ribeiro-643679305/)
 - [Email](mailto:vitor.silva03122@gmail.com)
-- 
