@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! I'm Vitor Silva Ribeiro 👋
 
-<!--
-**VitorZeroDev/VitorZeroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
 
-Here are some ideas to get you started:
+-   🔭 Junior Developer in training, focused on continuous improvement. Currently, I'm looking to apply **Data Science** and **Machine Learning** with Python, while also exploring low-level system development with C++.
+-   🌱 I seek to apply technology to solve complex problems and am always looking for new challenges.
+-   💡 My recent projects include a Titanic survival predictive model and a resistor calculator in C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+| Category | Technologies |
+| :--- | :--- |
+| **Main Languages** | Python, C++ |
+| **Data Science/ML** | Pandas, Scikit-learn |
+| **Tools** | Git, VS Code, Docker |
+
+### 📊 GitHub Stats
+
+[![VitorZeroDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorZeroDev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorZeroDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Let's Talk?
+
+- [LinkedIn](https://www.linkedin.com/in/vitor-silva-ribeiro-643679305/)
+- [Email](mailto:vitor.silva03122@gmail.com)
+- 
